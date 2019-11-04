@@ -12,7 +12,6 @@ tls_warnings = False
 # variables
 username            = "foo"
 password            = "bar"
-#password            = 'UfqH__hLkW8G5_GSHtSH'
 
 auth_url            = 'https://udp.foo.de/authenticate'
 autocomplete_url    = 'https://udp.foo.de/api/1/user/autocomplete?query='
